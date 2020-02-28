@@ -1,0 +1,27 @@
+{
+    "name": "handling-multiple-calls-async",
+    "version": "1.0.0",
+    "description": "A client needs to know what is happening on the social networks. All of them. Right now.",
+    "main": "index.js",
+    "dependencies": {
+        "async": "^3.1.1",
+        "bluebird": "^3.7.2",
+        "express": "^4.17.1",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mansha99/handling-multiple-calls-async.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mansha99/handling-multiple-calls-async/issues"
+    },
+    "homepage": "https://github.com/mansha99/handling-multiple-calls-async#readme"
+}
